@@ -29,7 +29,7 @@ https://weather-forecasting-roan.vercel.app/
 - Clone the repository:
 
 ```bash
-git clone https://github.com/rk-4u
+git clone https://github.com/rk-4u/Weather-forecasting
 
 ```
 
